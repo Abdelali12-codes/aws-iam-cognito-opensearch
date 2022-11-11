@@ -1,7 +1,7 @@
 # aws-iam-cognito-opensearch
 
 # References
-
+* https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-pools-app-idp-settings.html
 * https://docs.aws.amazon.com/cognito/latest/developerguide/using-attributes-for-access-control-policy-example.html
 * https://docs.aws.amazon.com/cognito/latest/developerguide/role-based-access-control.html
 * https://docs.aws.amazon.com/IAM/latest/UserGuide/id_session-tags.html
