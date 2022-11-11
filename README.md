@@ -1,0 +1,1 @@
+# aws-iam-cognito-opensearch
