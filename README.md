@@ -7,3 +7,5 @@
 * https://docs.aws.amazon.com/IAM/latest/UserGuide/id_session-tags.html
 * https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition.html#AccessPolicyLanguage_RequestContext
 * https://docs.aws.amazon.com/opensearch-service/latest/developerguide/fgac-walkthrough-iam.html
+* https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html
+* https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-lambda-authorizer-output.html
