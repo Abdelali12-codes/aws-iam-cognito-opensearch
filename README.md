@@ -9,3 +9,5 @@
 * https://docs.aws.amazon.com/opensearch-service/latest/developerguide/fgac-walkthrough-iam.html
 * https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html
 * https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-lambda-authorizer-output.html
+* https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights-use-kubelet.html
+
